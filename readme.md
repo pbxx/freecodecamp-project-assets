@@ -1,6 +1,6 @@
-# PBX's Free Code Camp Assets
+# PBX's `freeCodeCamp` Assets
 
-This is a compilation of assets that I created specifically for [freeCodeCamp.org](https://www.freecodecamp.org/) labs.
+This is a compilation of assets that I created specifically for [`freeCodeCamp`.org](https://www.freecodecamp.org/) labs.
 
 
 ## Logos
